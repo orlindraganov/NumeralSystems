@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb
+D:\Orlinovski Tapotii\NumeralSystems\BinaryToDecimal\obj\Debug\02.BinaryToDecimal.csprojResolveAssemblyReference.cache

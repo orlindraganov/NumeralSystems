@@ -1,0 +1,6 @@
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.pdb
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb
