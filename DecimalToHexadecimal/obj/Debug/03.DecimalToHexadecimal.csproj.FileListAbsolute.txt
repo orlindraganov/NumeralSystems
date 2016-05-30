@@ -3,3 +3,6 @@ D:\Orlinovski Tapotii\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHex
 D:\Orlinovski Tapotii\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.pdb
 D:\Orlinovski Tapotii\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
 D:\Orlinovski Tapotii\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\DecimalToHexadecimal\bin\Debug\DecimalToHexadecimal.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\DecimalToHexadecimal\obj\Debug\DecimalToHexadecimal.pdb

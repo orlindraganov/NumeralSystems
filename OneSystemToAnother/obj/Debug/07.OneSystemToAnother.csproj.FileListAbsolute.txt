@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\bin\Debug\OneSystemToAnother.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\bin\Debug\OneSystemToAnother.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\bin\Debug\OneSystemToAnother.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\obj\Debug\07.OneSystemToAnother.csprojResolveAssemblyReference.cache
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\obj\Debug\OneSystemToAnother.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\OneSystemToAnother\obj\Debug\OneSystemToAnother.pdb

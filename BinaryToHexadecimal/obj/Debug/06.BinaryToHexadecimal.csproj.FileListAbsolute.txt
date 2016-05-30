@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexad
 D:\Orlinovski Tapotii\NumeralSystems\BinaryToHexadecimal\obj\Debug\06.BinaryToHexadecimal.csprojResolveAssemblyReference.cache
 D:\Orlinovski Tapotii\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
 D:\Orlinovski Tapotii\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryToHexadecimal\bin\Debug\BinaryToHexadecimal.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryToHexadecimal\obj\Debug\BinaryToHexadecimal.pdb

@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalT
 D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\04.HexadecimalToDecimal.csprojResolveAssemblyReference.cache
 D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
 D:\Orlinovski Tapotii\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\HexadecimalToDecimal\bin\Debug\HexadecimalToDecimal.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\HexadecimalToDecimal\obj\Debug\HexadecimalToDecimal.pdb

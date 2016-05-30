@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\obj\Debug\08.BinaryShort.csprojResolveAssemblyReference.cache
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\bin\Debug\BinaryShort.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\obj\Debug\BinaryShort.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\BinaryShort\obj\Debug\BinaryShort.pdb

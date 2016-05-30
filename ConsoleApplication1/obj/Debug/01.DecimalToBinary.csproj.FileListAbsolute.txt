@@ -4,3 +4,6 @@ D:\Orlinovski Tapotii\NumeralSystems\ConsoleApplication1\bin\Debug\ConsoleApplic
 D:\Orlinovski Tapotii\NumeralSystems\ConsoleApplication1\obj\Debug\01.DecimalToBinary.csprojResolveAssemblyReference.cache
 D:\Orlinovski Tapotii\NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 D:\Orlinovski Tapotii\NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

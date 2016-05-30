@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.exe.config
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\bin\Debug\GoshoMazhe.pdb
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.csprojResolveAssemblyReference.cache
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.exe
+D:\Orlin\CSharpHomeworks\NumeralSystems\GoshoMazhe\obj\Debug\GoshoMazhe.pdb
