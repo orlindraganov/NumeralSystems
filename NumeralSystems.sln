@@ -15,11 +15,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.HexadecimalToBinary", "H
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.BinaryToHexadecimal", "BinaryToHexadecimal\06.BinaryToHexadecimal.csproj", "{D626AD30-7D48-459D-885E-F13C820B33EE}"
 EndProject
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.OneSystemToAnother", "OneSystemToAnother\07.OneSystemToAnother.csproj", "{1D1ADE91-9ED1-4934-93B3-0D348498C156}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.BinaryShort", "BinaryShort\08.BinaryShort.csproj", "{5584854F-9E52-4002-8420-EB82D32C1034}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshoMazhe", "GoshoMazhe\GoshoMazhe.csproj", "{3AEB5FA7-2AFD-4144-A630-7AFFD990AF85}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoshoMazhe", "GoshoMazhe\GoshoMazhe.csproj", "{74B104C2-7320-4279-81B2-F2FD70EFF951}"
+>>>>>>> 7420b60e7336b5ab29f89e97f4e0e0e796db68c4
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,7 @@ Global
 		{D626AD30-7D48-459D-885E-F13C820B33EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D626AD30-7D48-459D-885E-F13C820B33EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D626AD30-7D48-459D-885E-F13C820B33EE}.Release|Any CPU.Build.0 = Release|Any CPU
+<<<<<<< HEAD
 		{1D1ADE91-9ED1-4934-93B3-0D348498C156}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1D1ADE91-9ED1-4934-93B3-0D348498C156}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D1ADE91-9ED1-4934-93B3-0D348498C156}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -63,6 +68,12 @@ Global
 		{3AEB5FA7-2AFD-4144-A630-7AFFD990AF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AEB5FA7-2AFD-4144-A630-7AFFD990AF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AEB5FA7-2AFD-4144-A630-7AFFD990AF85}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{74B104C2-7320-4279-81B2-F2FD70EFF951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B104C2-7320-4279-81B2-F2FD70EFF951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B104C2-7320-4279-81B2-F2FD70EFF951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B104C2-7320-4279-81B2-F2FD70EFF951}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> 7420b60e7336b5ab29f89e97f4e0e0e796db68c4
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
